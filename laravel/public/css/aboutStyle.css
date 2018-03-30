@@ -1,0 +1,49 @@
+body{
+    background-image: url("../img/ak_bg_20170324.jpga");
+    background-repeat: no-repeat;
+    background-color:papayawhip;
+    background-size: 100%,auto;
+}
+a {
+    color: #000;
+    text-decoration: none;
+}
+a:hover {
+    color:gray;
+    text-decoration: none;
+}
+.align{
+    text-align: left;
+}
+.aboutFooter{
+    background:black;
+    width: 100%;
+    height: 170px;
+    padding-left: 7%;
+    padding-right: 7%;
+    vertical-align: bottom;
+}
+.line
+{
+        border: 1px solid;
+    margin-top: 35px;
+
+}
+.post {
+    width: 50%;
+    margin: 0 auto!important;
+    
+}
+.people-wrapper {
+    float: left;
+}
+.people .slide-img {
+    width: 196px;
+    height: 196px;
+    background-repeat: no-repeat!important;
+    background-position: bottom!important;
+    background-size: 100% auto!important;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
